@@ -26,11 +26,9 @@ Proyek ini dibangun menggunakan **Flask** untuk backend dan **Alpine.js** untuk 
 - DeepSeek-V3-0324
 
 ### **Deployment:**
-- Render
+- Railway
 
-Akses Aplikasi
+### Akses Aplikasi
 Aplikasi ini telah di-deploy dan dapat diakses secara publik melalui tautan berikut:
 
 [Buka Synapsis AI](https://synapsis-ai-production.up.railway.app/)
-
-(Catatan: Aplikasi pada tingkatan gratis mungkin memerlukan waktu sekitar 30 detik untuk "bangun" pada permintaan pertama jika sudah lama tidak aktif.)
