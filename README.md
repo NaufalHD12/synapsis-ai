@@ -5,9 +5,7 @@ Proyek ini dibangun menggunakan **Flask** untuk backend dan **Alpine.js** untuk 
 
 **Demo:**
 
-<video src="media/2025-06-17 07-16-37_1.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[![Demo Video](https://img.youtube.com/vi/GxhKQxfxhFU/0.jpg)](https://youtu.be/GxhKQxfxhFU)
 
 ## **Fitur Utama**
 - **Analisis Berbasis AI:** Membandingkan konten CV dengan deskripsi pekerjaan untuk menghasilkan skor kecocokan yang objektif.
