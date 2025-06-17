@@ -1,38 +1,49 @@
-# **Synapsis AI - Sistem Penyaringan CV Cerdas**
-**Synapsis AI** adalah aplikasi web modern yang dirancang untuk membantu tim HR merevolusi proses rekrutmen. Dengan memanfaatkan kekuatan AI, aplikasi ini dapat menganalisis deskripsi pekerjaan dan puluhan CV secara bersamaan, lalu memberikan skor kecocokan dan ringkasan analisis mendalam untuk setiap kandidat.
+# 🌟 Synapsis AI – Smart CV Screening System
 
-Proyek ini dibangun menggunakan **Flask** untuk backend dan **Alpine.js** untuk frontend yang interaktif, serta terhubung dengan **DeepSeek-V3-0324** sebagai otaknya.
+**Synapsis AI** adalah aplikasi web bertenaga AI yang dirancang untuk membantu tim HR menyederhanakan dan merevolusi proses rekrutmen. Dengan teknologi pemrosesan bahasa alami terbaru, Synapsis AI mampu menganalisis *Job Description* dan puluhan CV secara simultan, lalu memberikan **skor kecocokan**, **highlight kandidat**, serta **analisis mendalam** berbasis AI.
 
-**Demo:**
-
+🚀 **Live Demo**:  
 [![Demo Video](https://img.youtube.com/vi/GxhKQxfxhFU/0.jpg)](https://youtu.be/GxhKQxfxhFU)
 
-## **Fitur Utama**
-- **Analisis Berbasis AI:** Membandingkan konten CV dengan deskripsi pekerjaan untuk menghasilkan skor kecocokan yang objektif.
-- **Unggahan Massal:** Mendukung unggahan beberapa CV kandidat sekaligus untuk efisiensi maksimal.
-- **Analisis Mendalam:** Memberikan ringkasan positif, poin kunci yang cocok, dan poin perhatian untuk setiap kandidat.
-- **Dukungan Multi-bahasa:** Mampu mendeteksi dan memberikan analisis dalam bahasa yang sama dengan CV (Indonesia atau Inggris).
-- **Laporan Profesional:** Mengunduh hasil analisis dalam format file Excel (.xlsx) yang rapi, lengkap dengan styling untuk kemudahan membaca.
+🌐 **Akses Aplikasi**:  
+👉 [https://synapsis-ai-production.up.railway.app/](https://synapsis-ai-production.up.railway.app/)
 
-## **Tech Stack**
-### **Backend:**
-- Python 3 dengan Flask
-- Gunicorn sebagai WSGI Server
-- Pandas & Openpyxl untuk pembuatan laporan Excel
-- PyMuPDF untuk ekstraksi teks dari PDF
+---
 
-### **Frontend:**
-- HTML5
-- Tailwind CSS untuk styling
-- Alpine.js untuk reaktivitas antarmuka
+## ✨ Fitur Utama
 
-### **Layanan AI:**
-- DeepSeek-V3-0324
+- 🔍 **AI-Powered Analysis**  
+  Menganalisis kesesuaian kandidat berdasarkan konten CV dan deskripsi pekerjaan.
 
-### **Deployment:**
-- Railway
+- 📁 **Mass Upload Support**  
+  Mendukung unggahan banyak CV dalam sekali proses.
 
-### Akses Aplikasi
-Aplikasi ini telah di-deploy dan dapat diakses secara publik melalui tautan berikut:
+- 🧠 **Insightful Highlights**  
+  Menampilkan kekuatan, kesesuaian, dan perhatian penting dari masing-masing kandidat.
 
-[Buka Synapsis AI](https://synapsis-ai-production.up.railway.app/)
+- 🌍 **Multi-language Support**  
+  Dapat mendeteksi dan bekerja dalam Bahasa Indonesia maupun Inggris.
+
+- 📊 **Downloadable Report**  
+  Ekspor hasil analisis dalam format Excel (.xlsx) dengan format yang rapi dan profesional.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Backend
+- 🐍 Python 3 + Flask
+- 🧾 PyMuPDF (ekstraksi teks dari PDF)
+- 📊 Pandas & Openpyxl (generate laporan Excel)
+- 🌀 Gunicorn (production WSGI server)
+
+### 🎨 Frontend
+- ⚡ HTML5
+- 🎨 Tailwind CSS
+- ⚙️ Alpine.js (frontend interaktif dan ringan)
+
+### 🤖 AI Service
+- 🔬 DeepSeek-V3-0324 API
+
+### 🚢 Deployment
+- 🚄 Railway
