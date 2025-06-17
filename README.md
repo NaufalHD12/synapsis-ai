@@ -3,6 +3,12 @@
 
 Proyek ini dibangun menggunakan **Flask** untuk backend dan **Alpine.js** untuk frontend yang interaktif, serta terhubung dengan **DeepSeek-V3-0324** sebagai otaknya.
 
+**Demo:**
+
+<video src="media/2025-06-17 07-16-37_1.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
 ## **Fitur Utama**
 - **Analisis Berbasis AI:** Membandingkan konten CV dengan deskripsi pekerjaan untuk menghasilkan skor kecocokan yang objektif.
 - **Unggahan Massal:** Mendukung unggahan beberapa CV kandidat sekaligus untuk efisiensi maksimal.
